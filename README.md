@@ -44,9 +44,7 @@
 
 A **Full Stack Expense Tracker** with full functionality like adding trasactions, deleting trasactions, showing history, graph
 
-### 🤔 For Live Example:
 
-[MERN-Expense-Tracker]()
 
 ### 👨‍💻 Execution:
 
